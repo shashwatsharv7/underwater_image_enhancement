@@ -1,0 +1,6 @@
+Pipeline Performance Report
+===========================
+Total image pairs: 5885
+Successfully processed: 5885
+Mean PSNR: 13.96 ± 1.95 dB
+Mean SSIM: 0.4995 ± 0.0673
